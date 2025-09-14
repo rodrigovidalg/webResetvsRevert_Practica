@@ -1,0 +1,18 @@
+html{
+    font-size: 10px;
+    font-family: tahoma;
+}
+nav{
+    background-color: gray;
+}
+ul{
+    list-style: none;
+    text-align: end;
+    font-weight: 800;
+}
+li{
+    margin: 0 0.2rem;
+    padding: 1rem 2rem ;
+    display: inline-block;
+    border: 1px solid #000;
+}
