@@ -16,3 +16,17 @@ li{
     display: inline-block;
     border: 1px solid #000;
 }
+
+.grupoDivs{
+    width: auto;
+    height: 25rem;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.grupoDivs__cajas{
+    width: 15rem;
+    height: 15rem;
+    background-color: orange;
+}
