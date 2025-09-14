@@ -25,8 +25,22 @@ li{
     justify-content: space-around;
     align-items: center;
 }
-.grupoDivs__cajas{
+.grupoDivs__cajas, .contenedorFooter__elemento{
     width: 15rem;
     height: 15rem;
     background-color: orange;
+}
+
+.contenedorFooter{
+    width: auto;
+    height: 25rem;
+    background-color: orange;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contenedorFooter__elemento{
+    width: 15rem;
+    height: 15rem;
+    background-color: yellow;
 }
